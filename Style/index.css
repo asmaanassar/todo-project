@@ -54,7 +54,7 @@ align-items: center;
     border: 1px solid black;
     border-collapse: collapse;
   }
-  .main caption{
+  .main h1{
 
     font-size: 1.8rem;
     font-style:italic;
