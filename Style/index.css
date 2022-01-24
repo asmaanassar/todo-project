@@ -7,6 +7,7 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+
 header{
 
     background-color: #4b4949;
@@ -17,9 +18,10 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 10px 200px;
-}
+} 
 
 .logo{
+
 text-decoration: none;
 color: rgb(0, 26, 255);
 text-transform: uppercase;
@@ -54,7 +56,7 @@ align-items: center;
     border: 1px solid black;
     border-collapse: collapse;
   }
-  .main h1{
+  .main caption{
 
     font-size: 1.8rem;
     font-style:italic;
